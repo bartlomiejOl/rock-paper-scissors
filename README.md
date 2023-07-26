@@ -28,7 +28,7 @@
   </li>
   <li>
     <h3>JavaScript</h3>
-    <p>Język programowania JavaScript został użyty do implementacji logiki gry, takiej jak losowy wybór komputera, ocena wyników itp.</p>
+    <p>JavaScript został użyty do implementacji logiki gry, takiej jak losowy wybór komputera, ocena wyników itp.</p>
   </li>
   <li>
     <h3>HTML</h3>
