@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+<h2>Opis aplikacji</h2>
+<p>"Papier, Kamień, Nożyce" to prosta i klasyczna gra, w której użytkownik rywalizuje z komputerem, wybierając jeden z trzech dostępnych elementów: papier, kamień lub nożyce. Celem gry jest pokonać przeciwnika, wybierając element, który pokonuje ten wybrany przez komputer.</p>
+<h2>Funkcje</h2>
+<ul>
+  <li>
+    <h3>Wybór elementu</h3>
+    <p>Gracz ma możliwość wyboru jednego z trzech elementów: papier, kamień lub nożyce. Wybór jest dokonywany za pomocą intuicyjnego interfejsu użytkownika.</p>
+  </li>
+  <li>
+    <h3>Losowy wybór komputera</h3>
+    <p>Komputer również wybiera jeden z elementów w sposób losowy. Użytkownik nie wie, jaki element zostanie wybrany przez przeciwnika.</p>
+  </li>
+  <li>
+    <h3>Wynik gry</h3>
+    <p>Po dokonaniu wyborów, gra ocenia wynik pojedynku i ogłasza, czy gracz wygrał, przegrał czy też zremisował z komputerem.</p>
+  </li>
+  <li>
+    <h3>Wynik całej rozgrywki</h3>
+    <p>Gra śledzi wyniki całej rozgrywki i wyświetla punktację, która pokazuje ile razy gracz wygrał, przegrał lub zremisował.</p>
+  </li>
+</ul>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h2>Technologie</h2>
+<ul>
+  <li>
+    <h3>React</h3>
+    <p></p>Wykorzystałem bibliotekę React, która umożliwiła mi łatwe tworzenie interaktywnych i dynamicznych komponentów.</p>
+  </li>
+  <li>
+    <h3>JavaScript</h3>
+    <p>Język programowania JavaScript został użyty do implementacji logiki gry, takiej jak losowy wybór komputera, ocena wyników itp.</p>
+  </li>
+  <li>
+    <h3>HTML</h3>
+    <p>Zastosowano semantyczny HTML do strukturyzowania i organizacji zawartości gry.</p>
+  </li>
+  <li>
+    <h3>CSS</h3>
+    <p> Stosowanie kaskadowych arkuszy stylów pozwoliło na spersonalizowanie wyglądu gry i zapewnienie atrakcyjnej interakcji użytkownika.</p>
+  </li>
+</ul>
